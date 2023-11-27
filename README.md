@@ -1,4 +1,4 @@
-# iOS: SWIFTUI integration with Firebase, MapKit adn Alamofire 
+# iOS: SWIFTUI integration with Firebase, MapKit and Alamofire 
 
 I created a demo for new integration with Firebase, using MVVM arquitecture
 
